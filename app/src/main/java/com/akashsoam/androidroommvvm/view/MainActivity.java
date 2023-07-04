@@ -1,8 +1,10 @@
-package com.akashsoam.androidroommvvm;
+package com.akashsoam.androidroommvvm.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.akashsoam.androidroommvvm.R;
 
 public class MainActivity extends AppCompatActivity {
 
